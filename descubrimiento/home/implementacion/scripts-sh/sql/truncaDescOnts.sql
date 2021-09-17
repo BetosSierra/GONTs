@@ -1,0 +1,1 @@
+truncate Inventario_Onts;
